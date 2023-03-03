@@ -1,0 +1,25 @@
+      Puran
+1. Software Development life cycle
+2. Networking Protocols
+3. git, git hub, bitbucket, git lab
+4. Theory of Automata, Finite State Machine
+
+     Ravi
+5. Testing,jenkins,owasp
+
+     Pranab
+6. bitbucket,HTML,CSS,JAVAScript, How to learning new language?
+
+    Mukund
+7. Docker, Kubernetes, LucidChart, databricks, Linux, UTM
+
+   Abhinandan
+8. java, Oops, DSA
+
+
+Important Tools:
+1.
+
+   
+
+     
