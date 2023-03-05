@@ -1,0 +1,39 @@
+[
+    {
+        "name" : "Rabindra",
+        "place" : "Berhampur",
+        "email" : "rabindra@gmail.com",
+        "address" : {
+          "state" : "Odisha",
+          "pin" : "761027"
+        }
+      },
+    {
+      "name" : "Sumeet",
+      "place" : "Cuttack",
+      "email" : "sumeet@gmail.com",
+      "address" : {
+        "state" : "Odisha",
+        "pin" : "754132"
+      }
+    },
+    {
+      "name" : "Sanskar",
+      "place" : "Bhubaneswar",
+      "email" : "sanskar@gmail.com",
+      "address" : {
+        "state" : "Odisha",
+        "pin" : "752084"
+      }
+    },
+  
+    {
+      "name" : "Yuvraj",
+      "place" : "jharshuguda",
+      "email" : "yuvraj@gmail.com",
+      "address" : {
+        "state" : "Odisha",
+        "pin" : "754444"
+      }
+    }
+  ]
