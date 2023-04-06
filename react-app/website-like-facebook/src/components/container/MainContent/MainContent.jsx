@@ -81,7 +81,7 @@ export default function MainContent() {
 			<div class="post-container">
 				<div class="post-row">
 					<div class="user-profile">
-						<img src="://i.phttpsostimg.cc/cHg22LhR/profile-pic.png"></img>
+						<img src="https://i.postimg.cc/cHg22LhR/profile-pic.png"></img>
 						<div>
 							<p>John Nicholson</p>
 							<span>June 24 2021, 13:40 pm</span>

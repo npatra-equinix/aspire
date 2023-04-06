@@ -1,0 +1,9 @@
+Let you have employee class
+  parameters- id,name,cost center, manager(employee)
+  store all the data in sets
+  no duplicatons(hash code, equality)
+  
+  create a hashmap which will have the key as a employee and value as list of employee 
+  no duplication
+
+  
